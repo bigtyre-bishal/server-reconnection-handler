@@ -53,5 +53,6 @@ This project is open-source and available under the MIT License.
 #### Author
 Developed by Bishal Shrestha.
 
-![image](https://github.com/user-attachments/assets/ea13009b-349d-4672-b03f-267eb725f281)
+![image](https://github.com/user-attachments/assets/a0d9c4dd-59ad-4ea3-b06f-3c00d272359b)
+
 
